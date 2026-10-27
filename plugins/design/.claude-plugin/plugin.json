@@ -1,0 +1,11 @@
+{
+  "name": "design",
+  "description": "Skills for visual, interface, and brand design work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tung",
+    "url": "https://github.com/TungSeven30"
+  },
+  "repository": "https://github.com/TungSeven30/skills",
+  "keywords": ["skills", "design"]
+}

@@ -1,18 +1,21 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "seven30-skills",
-  "description": "Tung's persistent skills collection for agents.",
+  "description": "Tung's persistent skills collection for agents, one installable plugin per category.",
   "owner": {
     "name": "Tung",
     "url": "https://github.com/TungSeven30"
   },
   "plugins": [
     {
-      "name": "seven30",
-      "source": "./plugins/seven30",
-      "description": "A walk-in closet of skills for my agents.",
+      "name": "core",
+      "source": "./plugins/core",
+      "description": "General-purpose skills, including add-skill for maintaining this skills library.",
       "category": "productivity",
-      "tags": ["skills"]
+      "tags": ["skills", "core"]
     }
-  ]
+  ],
+  "renames": {
+    "seven30": "core"
+  }
 }
