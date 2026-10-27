@@ -1,0 +1,11 @@
+{
+  "name": "core",
+  "description": "General-purpose skills, including add-skill for maintaining this skills library.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Tung",
+    "url": "https://github.com/TungSeven30"
+  },
+  "repository": "https://github.com/TungSeven30/skills",
+  "keywords": ["skills", "core"]
+}
