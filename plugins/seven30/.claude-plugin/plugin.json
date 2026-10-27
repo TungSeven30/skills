@@ -1,0 +1,11 @@
+{
+  "name": "seven30",
+  "description": "A walk-in closet of skills for my agents.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tung",
+    "url": "https://github.com/TungSeven30"
+  },
+  "repository": "https://github.com/TungSeven30/skills",
+  "keywords": ["skills"]
+}
