@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "seven30-skills",
+  "description": "Tung's persistent skills collection for agents.",
+  "owner": {
+    "name": "Tung",
+    "url": "https://github.com/TungSeven30"
+  },
+  "plugins": [
+    {
+      "name": "seven30",
+      "source": "./plugins/seven30",
+      "description": "A walk-in closet of skills for my agents.",
+      "category": "productivity",
+      "tags": ["skills"]
+    }
+  ]
+}
