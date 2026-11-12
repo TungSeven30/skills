@@ -17,7 +17,7 @@ scripts/validate.sh                        checks everything before you push
 | Category | Purpose | Skills | Installable |
 | :- | :- | :- | :- |
 | `core` | General-purpose skills that don't belong to one field, including tools for maintaining this repo | `add-skill` | Yes |
-| `coding` | Writing, reviewing, testing and shipping code | none yet | Not yet |
+| `coding` | Writing, reviewing, testing and shipping code | `ui-sdk` (from [vercel-labs/ui](https://github.com/vercel-labs/ui), Apache-2.0) | Yes |
 | `design` | Visual, interface and brand design | none yet | Not yet |
 | `filmmaking` | Video and film production, from script to edit | none yet | Not yet |
 
@@ -35,11 +35,12 @@ Then install the categories you want:
 
 ```
 /plugin install core@seven30-skills
+/plugin install coding@seven30-skills
 ```
 
 On Claude Code 2.1.275 or later you can do both steps at once with `/plugin install core --marketplace TungSeven30/skills`.
 
-`coding@seven30-skills`, `design@seven30-skills` and `filmmaking@seven30-skills` install the same way once those categories have skills. From a shell, use `claude plugin marketplace add TungSeven30/skills` and `claude plugin install core@seven30-skills`.
+`design@seven30-skills` and `filmmaking@seven30-skills` install the same way once those categories have skills. From a shell, use `claude plugin marketplace add TungSeven30/skills` and `claude plugin install core@seven30-skills`.
 
 Skills run as `/<category>:<skill-name>`, for example `/core:add-skill`.
 

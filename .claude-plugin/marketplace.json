@@ -13,6 +13,13 @@
       "description": "General-purpose skills, including add-skill for maintaining this skills library.",
       "category": "productivity",
       "tags": ["skills", "core"]
+    },
+    {
+      "name": "coding",
+      "source": "./plugins/coding",
+      "description": "Skills for writing, reviewing, testing, and shipping code.",
+      "category": "development",
+      "tags": ["skills", "coding"]
     }
   ],
   "renames": {
