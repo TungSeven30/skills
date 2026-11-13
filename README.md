@@ -12,13 +12,15 @@ plugins/<category>/.claude-plugin/plugin.json
 plugins/<category>/skills/<skill-name>/SKILL.md
 plugins/<category>/skills/<skill-name>/... scripts, references, templates, assets for that skill
 scripts/validate.sh                        checks everything before you push
+scripts/sync-upstream.py                   re-pulls skills that track an upstream repo
+upstreams/<name>.json, <name>.lock.json    what an upstream sync installs, and the exact commits it installed
 ```
 
 | Category | Purpose | Skills | Installable |
 | :- | :- | :- | :- |
 | `core` | General-purpose skills that don't belong to one field, including tools for maintaining this repo | `add-skill` | Yes |
 | `coding` | Writing, reviewing, testing and shipping code | none yet | Not yet |
-| `design` | Visual, interface and brand design | none yet | Not yet |
+| `design` | Visual, interface and brand design | The [Open Design](https://github.com/nexu-io/open-design/tree/main/skills) catalogue, synced from upstream (see `upstreams/open-design.lock.json` for the list) | Yes |
 | `filmmaking` | Video and film production, from script to edit | none yet | Not yet |
 
 A category becomes installable when it has at least one skill and an entry in `marketplace.json`. Until then its folder and `plugin.json` are ready, but the marketplace doesn't list it.
@@ -39,7 +41,7 @@ Then install the categories you want:
 
 On Claude Code 2.1.275 or later you can do both steps at once with `/plugin install core --marketplace TungSeven30/skills`.
 
-`coding@seven30-skills`, `design@seven30-skills` and `filmmaking@seven30-skills` install the same way once those categories have skills. From a shell, use `claude plugin marketplace add TungSeven30/skills` and `claude plugin install core@seven30-skills`.
+`design@seven30-skills` installs the same way; `coding@seven30-skills` and `filmmaking@seven30-skills` will once those categories have skills. From a shell, use `claude plugin marketplace add TungSeven30/skills` and `claude plugin install core@seven30-skills`.
 
 Skills run as `/<category>:<skill-name>`, for example `/core:add-skill`.
 
@@ -60,6 +62,25 @@ An installed plugin picks up changes only when its `version` in `plugin.json` ch
 5. Run `scripts/validate.sh`, then commit and push.
 
 The `add-skill` skill in `core` walks an agent through the same steps.
+
+## Skills synced from upstream
+
+Some skills are verbatim copies of someone else's skills that we keep current with their repo instead of editing here. Each source has a manifest in `upstreams/`:
+
+- `upstreams/<name>.json` says which catalogue to follow, which plugin it lands in, and any `exclude` entries or `pins` (an explicit repo and `path`, or several `paths`, for entries the script can't resolve on its own).
+- `upstreams/<name>.lock.json` is written by the sync: every installed skill with its source repo, path, commit and license, plus every skipped entry and why.
+
+To update, run from the repo root:
+
+```
+scripts/sync-upstream.py upstreams/open-design.json --check   # preview what would change
+scripts/sync-upstream.py upstreams/open-design.json           # apply it
+scripts/validate.sh
+```
+
+The sync replaces every folder listed in the previous lock, so skills removed upstream disappear here too, and bumps the plugin's minor version when anything changed. It never touches skills it didn't install. Each installed folder carries the upstream `LICENSE` and an `UPSTREAM.md` with its source and commit. Don't edit these folders by hand, because the next sync overwrites them; to drop one, add it to `exclude`.
+
+For Open Design, entries that are full skills are copied from the Open Design repo. Entries that are only catalogue stubs (a pointer to another repo) are resolved to the original skill in that repo, so you get the real instructions, scripts and references. An entry is skipped when its upstream has no license, a license outside the allow list (MIT, Apache-2.0, BSD, ISC, MPL-2.0, CC0, CC-BY-4.0, Unlicense), or no longer contains the skill; the lock file lists each one.
 
 ## Create a new category
 

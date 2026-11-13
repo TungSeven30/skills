@@ -1,0 +1,1491 @@
+{
+  "catalog": {
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills",
+    "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582"
+  },
+  "skills": {
+    "8-bit-orbit-video-template": {
+      "catalog_entry": "8-bit-orbit-video-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/8-bit-orbit-video-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "ad-creative": {
+      "catalog_entry": "ad-creative",
+      "repo": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/ad-creative",
+      "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "after-hours-editorial-template": {
+      "catalog_entry": "after-hours-editorial-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/after-hours-editorial-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "agent-browser": {
+      "catalog_entry": "agent-browser",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/agent-browser",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "algorithmic-art": {
+      "catalog_entry": "algorithmic-art",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/algorithmic-art",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "android-design-guidelines": {
+      "catalog_entry": "platform-design",
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "path": "skills/android",
+      "commit": "dc2be825d8b439caea78e9eaa8fb3ac23b0ff3e9",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "animate": {
+      "catalog_entry": "animate",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/animate",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "article-magazine": {
+      "catalog_entry": "article-magazine",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/article-magazine",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "artifacts-builder": {
+      "catalog_entry": "artifacts-builder",
+      "repo": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "path": "artifacts-builder",
+      "commit": "be2a406907dbc61b73e6827ded415c96139d13a2",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "baseline-ui": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/baseline-ui",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "brainstorming": {
+      "catalog_entry": "brainstorming",
+      "repo": "https://github.com/obra/superpowers",
+      "path": "skills/brainstorming",
+      "commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "brand-extract": {
+      "catalog_entry": "brand-extract",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/brand-extract",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "brand-guidelines": {
+      "catalog_entry": "brand-guidelines",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/brand-guidelines",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "brandkit": {
+      "catalog_entry": "brandkit",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/brandkit",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "build-models": {
+      "catalog_entry": "replicate",
+      "repo": "https://github.com/replicate/skills",
+      "path": "skills/build-models",
+      "commit": "2f36e415965ae63baa1c9f6635888092bcd771d3",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "canvas-design": {
+      "catalog_entry": "canvas-design",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/canvas-design",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "card-twitter": {
+      "catalog_entry": "card-twitter",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/card-twitter",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "card-xiaohongshu": {
+      "catalog_entry": "card-xiaohongshu",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/card-xiaohongshu",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "chat-motion-overlay": {
+      "catalog_entry": "chat-motion-overlay",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/chat-motion-overlay",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "color-expert": {
+      "catalog_entry": "color-expert",
+      "repo": "https://github.com/meodai/skill.color-expert",
+      "path": "",
+      "commit": "5bf7c7704d56bccc6aeea38c36bcf449abe56a6c",
+      "license": "CC-BY-4.0",
+      "how": "frontmatter name"
+    },
+    "compare-models": {
+      "catalog_entry": "replicate",
+      "repo": "https://github.com/replicate/skills",
+      "path": "skills/compare-models",
+      "commit": "2f36e415965ae63baa1c9f6635888092bcd771d3",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "component-canvas": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/component-canvas",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "copywriting": {
+      "catalog_entry": "copywriting",
+      "repo": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/copywriting",
+      "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "create-canvas": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/create-canvas",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "create-design-md": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/create-design-md",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "creative-director": {
+      "catalog_entry": "creative-director",
+      "repo": "https://github.com/smixs/creative-director-skill",
+      "path": "creative-director",
+      "commit": "ac06eb255371da35d1db0a146dbfcca8c8857543",
+      "license": "CC-BY-4.0",
+      "how": "folder name"
+    },
+    "data-report": {
+      "catalog_entry": "data-report",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/data-report",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "deck-guizang-editorial": {
+      "catalog_entry": "deck-guizang-editorial",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/deck-guizang-editorial",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "deck-open-slide-canvas": {
+      "catalog_entry": "deck-open-slide-canvas",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/deck-open-slide-canvas",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "deck-swiss-international": {
+      "catalog_entry": "deck-swiss-international",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/deck-swiss-international",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "design-brief": {
+      "catalog_entry": "design-brief",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/design-brief",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "design-consultation": {
+      "catalog_entry": "design-consultation",
+      "repo": "https://github.com/garrytan/gstack",
+      "path": "design-consultation",
+      "commit": "654ad4b6fe2a6f2d900a786a7bacaca8fbb5b19e",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "design-md": {
+      "catalog_entry": "design-md",
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-utilities/skills/design-md",
+      "commit": "0337446dadde6f8c94210444e2aa9d546126480f",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "design-review": {
+      "catalog_entry": "design-review",
+      "repo": "https://github.com/garrytan/gstack",
+      "path": "design-review",
+      "commit": "654ad4b6fe2a6f2d900a786a7bacaca8fbb5b19e",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "design-taste-frontend": {
+      "catalog_entry": "taste-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/taste-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "design-taste-frontend-v1": {
+      "catalog_entry": "taste-skill-v1",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/taste-skill-v1",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "digits-fintech-swiss-template": {
+      "catalog_entry": "digits-fintech-swiss-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/digits-fintech-swiss-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "doc-kami-parchment": {
+      "catalog_entry": "doc-kami-parchment",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/doc-kami-parchment",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "docx": {
+      "catalog_entry": "docx",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/docx",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "ecommerce-image-workflow": {
+      "catalog_entry": "ecommerce-image-workflow",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/ecommerce-image-workflow",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "editorial-burgundy-principles-template": {
+      "catalog_entry": "editorial-burgundy-principles-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/editorial-burgundy-principles-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "emil-design-eng": {
+      "catalog_entry": "emil-design-eng",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/emil-design-eng",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "emilkowalski-motion": {
+      "catalog_entry": "emilkowalski-motion",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/emilkowalski-motion",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "enhance-prompt": {
+      "catalog_entry": "enhance-prompt",
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-utilities/skills/enhance-prompt",
+      "commit": "0337446dadde6f8c94210444e2aa9d546126480f",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "export-download-debugging": {
+      "catalog_entry": "export-download-debugging",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/export-download-debugging",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "faq-page": {
+      "catalog_entry": "faq-page",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/faq-page",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "field-notes-editorial-template": {
+      "catalog_entry": "field-notes-editorial-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/field-notes-editorial-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "find-models": {
+      "catalog_entry": "replicate",
+      "repo": "https://github.com/replicate/skills",
+      "path": "skills/find-models",
+      "commit": "2f36e415965ae63baa1c9f6635888092bcd771d3",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "fixing-accessibility": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/fixing-accessibility",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "fixing-metadata": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/fixing-metadata",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "fixing-motion-performance": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/fixing-motion-performance",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "frame-data-chart-nyt": {
+      "catalog_entry": "frame-data-chart-nyt",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frame-data-chart-nyt",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frame-flowchart-sticky": {
+      "catalog_entry": "frame-flowchart-sticky",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frame-flowchart-sticky",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frame-glitch-title": {
+      "catalog_entry": "frame-glitch-title",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frame-glitch-title",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frame-light-leak-cinema": {
+      "catalog_entry": "frame-light-leak-cinema",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frame-light-leak-cinema",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frame-liquid-bg-hero": {
+      "catalog_entry": "frame-liquid-bg-hero",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frame-liquid-bg-hero",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frame-logo-outro": {
+      "catalog_entry": "frame-logo-outro",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frame-logo-outro",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frame-macos-notification": {
+      "catalog_entry": "frame-macos-notification",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frame-macos-notification",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frontend-design": {
+      "catalog_entry": "frontend-design",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/frontend-design",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "frontend-dev": {
+      "catalog_entry": "frontend-dev",
+      "repo": "https://github.com/MiniMax-AI/skills",
+      "path": "skills/frontend-dev",
+      "commit": "02853d885acb1abc157477ce00c4d98a8ed14a71",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "frontend-slides": {
+      "catalog_entry": "frontend-slides",
+      "repo": "https://github.com/zarazhangrui/frontend-slides",
+      "path": "plugins/frontend-slides/skills/frontend-slides",
+      "commit": "9906a34d640d2111f724544cbc50f7f130569ae1",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "full-output-enforcement": {
+      "catalog_entry": "output-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/output-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gif-sticker-maker": {
+      "catalog_entry": "gif-sticker-maker",
+      "repo": "https://github.com/MiniMax-AI/skills",
+      "path": "skills/gif-sticker-maker",
+      "commit": "02853d885acb1abc157477ce00c4d98a8ed14a71",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "gpt-taste": {
+      "catalog_entry": "gpt-tasteskill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gpt-tasteskill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-core": {
+      "catalog_entry": "gsap-core",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-core",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-frameworks": {
+      "catalog_entry": "gsap-frameworks",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-frameworks",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-performance": {
+      "catalog_entry": "gsap-performance",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-performance",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-plugins": {
+      "catalog_entry": "gsap-plugins",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-plugins",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-react": {
+      "catalog_entry": "gsap-react",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-react",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-scrolltrigger": {
+      "catalog_entry": "gsap-scrolltrigger",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-scrolltrigger",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-timeline": {
+      "catalog_entry": "gsap-timeline",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-timeline",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "gsap-utils": {
+      "catalog_entry": "gsap-utils",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/gsap-utils",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "hand-drawn-diagrams": {
+      "catalog_entry": "hand-drawn-diagrams",
+      "repo": "https://github.com/muthuishere/hand-drawn-diagrams",
+      "path": "",
+      "commit": "c8ffd6c3febbc0e745ab6691ea81c8703a9829c8",
+      "license": "MIT",
+      "how": "frontmatter name"
+    },
+    "hatch-pet": {
+      "catalog_entry": "hatch-pet",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/hatch-pet",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "hig-components-content": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-content",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-components-controls": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-controls",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-components-dialogs": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-dialogs",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-components-layout": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-layout",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-components-menus": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-menus",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-components-search": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-search",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-components-status": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-status",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-components-system": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-components-system",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-foundations": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-foundations",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-inputs": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-inputs",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-patterns": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-patterns",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-platforms": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-platforms",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-project-context": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-project-context",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "hig-technologies": {
+      "catalog_entry": "apple-hig",
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "path": "skills/hig-technologies",
+      "commit": "a0f1e4ec3c5ada82e538710b54a344db63189d8b",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "high-end-visual-design": {
+      "catalog_entry": "soft-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/soft-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "html-ppt-retro-quarterly-review": {
+      "catalog_entry": "html-ppt-retro-quarterly-review",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/html-ppt-retro-quarterly-review",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "huashu-art-motion": {
+      "catalog_entry": "huashu-art-motion",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/huashu-art-motion",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "image-to-code": {
+      "catalog_entry": "image-to-code-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/image-to-code-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "imagegen": {
+      "catalog_entry": "imagegen",
+      "repo": "https://github.com/openai/skills",
+      "path": "skills/.system/imagegen",
+      "commit": "49f948faa9258a0c61caceaf225e179651397431",
+      "license": "Apache-2.0",
+      "how": "folder name"
+    },
+    "imagegen-frontend-mobile": {
+      "catalog_entry": "imagegen-frontend-mobile",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/imagegen-frontend-mobile",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "imagegen-frontend-web": {
+      "catalog_entry": "imagegen-frontend-web",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/imagegen-frontend-web",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "imagen": {
+      "catalog_entry": "imagen",
+      "repo": "https://github.com/sanjay3290/ai-skills",
+      "path": "skills/imagen",
+      "commit": "c84255839a1bfaa06d681aa528f9b50d70002afb",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "impeccable-design-polish": {
+      "catalog_entry": "impeccable-design-polish",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/impeccable-design-polish",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "improve-ui": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/improve-ui",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "industrial-brutalist-ui": {
+      "catalog_entry": "brutalist-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/brutalist-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "ios-design-guidelines": {
+      "catalog_entry": "platform-design",
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "path": "skills/ios",
+      "commit": "dc2be825d8b439caea78e9eaa8fb3ac23b0ff3e9",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "ipados-design-guidelines": {
+      "catalog_entry": "platform-design",
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "path": "skills/ipados",
+      "commit": "dc2be825d8b439caea78e9eaa8fb3ac23b0ff3e9",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "library-curator": {
+      "catalog_entry": "library-curator",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/library-curator",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "login-flow": {
+      "catalog_entry": "login-flow",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/login-flow",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "macos-design-guidelines": {
+      "catalog_entry": "platform-design",
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "path": "skills/macos",
+      "commit": "dc2be825d8b439caea78e9eaa8fb3ac23b0ff3e9",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "marketing-psychology": {
+      "catalog_entry": "marketing-psychology",
+      "repo": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/marketing-psychology",
+      "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "minimalist-ui": {
+      "catalog_entry": "minimalist-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/minimalist-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "minimax-docx": {
+      "catalog_entry": "minimax-docx",
+      "repo": "https://github.com/MiniMax-AI/skills",
+      "path": "skills/minimax-docx",
+      "commit": "02853d885acb1abc157477ce00c4d98a8ed14a71",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "minimax-pdf": {
+      "catalog_entry": "minimax-pdf",
+      "repo": "https://github.com/MiniMax-AI/skills",
+      "path": "skills/minimax-pdf",
+      "commit": "02853d885acb1abc157477ce00c4d98a8ed14a71",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "mockup-device-3d": {
+      "catalog_entry": "mockup-device-3d",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/mockup-device-3d",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "motion-design": {
+      "catalog_entry": "motion-design",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/motion-design",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "motion-lab": {
+      "catalog_entry": "motion-lab",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/motion-lab",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "od-next-media-inputs": {
+      "catalog_entry": "od-next-media-inputs",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/od-next-media-inputs",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "oil-motion": {
+      "catalog_entry": "oil-motion",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/oil-motion",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "paywalls": {
+      "catalog_entry": "paywall-upgrade-cro",
+      "repo": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/paywalls",
+      "commit": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "pdf": {
+      "catalog_entry": "pdf",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/pdf",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "plan-design-review": {
+      "catalog_entry": "plan-design-review",
+      "repo": "https://github.com/garrytan/gstack",
+      "path": "plan-design-review",
+      "commit": "654ad4b6fe2a6f2d900a786a7bacaca8fbb5b19e",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "poster-hero": {
+      "catalog_entry": "poster-hero",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/poster-hero",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "ppt-keynote": {
+      "catalog_entry": "ppt-keynote",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/ppt-keynote",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "pptx": {
+      "catalog_entry": "pptx",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/pptx",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "pptx-generator": {
+      "catalog_entry": "pptx-generator",
+      "repo": "https://github.com/MiniMax-AI/skills",
+      "path": "skills/pptx-generator",
+      "commit": "02853d885acb1abc157477ce00c4d98a8ed14a71",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "pptx-html-fidelity-audit": {
+      "catalog_entry": "pptx-html-fidelity-audit",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/pptx-html-fidelity-audit",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "pr-feedback-quality-gate": {
+      "catalog_entry": "pr-feedback-quality-gate",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/pr-feedback-quality-gate",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "prompt-images": {
+      "catalog_entry": "replicate",
+      "repo": "https://github.com/replicate/skills",
+      "path": "skills/prompt-images",
+      "commit": "2f36e415965ae63baa1c9f6635888092bcd771d3",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "prompt-videos": {
+      "catalog_entry": "replicate",
+      "repo": "https://github.com/replicate/skills",
+      "path": "skills/prompt-videos",
+      "commit": "2f36e415965ae63baa1c9f6635888092bcd771d3",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "publish-models": {
+      "catalog_entry": "replicate",
+      "repo": "https://github.com/replicate/skills",
+      "path": "skills/publish-models",
+      "commit": "2f36e415965ae63baa1c9f6635888092bcd771d3",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "redesign-existing-projects": {
+      "catalog_entry": "redesign-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/redesign-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "reference-design-contract": {
+      "catalog_entry": "reference-design-contract",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/reference-design-contract",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "release-notes-one-pager": {
+      "catalog_entry": "release-notes-one-pager",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/release-notes-one-pager",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "research-decision-room": {
+      "catalog_entry": "research-decision-room",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/research-decision-room",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "resume-modern": {
+      "catalog_entry": "resume-modern",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/resume-modern",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "review-animations": {
+      "catalog_entry": "review-animations",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/review-animations",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "run-models": {
+      "catalog_entry": "replicate",
+      "repo": "https://github.com/replicate/skills",
+      "path": "skills/run-models",
+      "commit": "2f36e415965ae63baa1c9f6635888092bcd771d3",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "screenshot": {
+      "catalog_entry": "screenshot",
+      "repo": "https://github.com/openai/skills",
+      "path": "skills/.curated/screenshot",
+      "commit": "49f948faa9258a0c61caceaf225e179651397431",
+      "license": "Apache-2.0",
+      "how": "folder name"
+    },
+    "shadcn-ui": {
+      "catalog_entry": "shadcn-ui",
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-build/skills/shadcn-ui",
+      "commit": "0337446dadde6f8c94210444e2aa9d546126480f",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "shader-dev": {
+      "catalog_entry": "shader-dev",
+      "repo": "https://github.com/MiniMax-AI/skills",
+      "path": "skills/shader-dev",
+      "commit": "02853d885acb1abc157477ce00c4d98a8ed14a71",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "slack-gif-creator": {
+      "catalog_entry": "slack-gif-creator",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/slack-gif-creator",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "snow-d3": {
+      "catalog_entry": "d3-visualization",
+      "repo": "https://github.com/jiannanya/snow-d3",
+      "path": "",
+      "commit": "f9c319c5f5b148f6c1c7d1669bcebb8a97b07b6f",
+      "license": "MIT",
+      "how": "only skill in repo"
+    },
+    "social-reddit-card": {
+      "catalog_entry": "social-reddit-card",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/social-reddit-card",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "social-spotify-card": {
+      "catalog_entry": "social-spotify-card",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/social-spotify-card",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "social-x-post-card": {
+      "catalog_entry": "social-x-post-card",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/social-x-post-card",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "speech": {
+      "catalog_entry": "speech",
+      "repo": "https://github.com/openai/skills",
+      "path": "skills/.curated/speech",
+      "commit": "49f948faa9258a0c61caceaf225e179651397431",
+      "license": "Apache-2.0",
+      "how": "folder name"
+    },
+    "stitch-design-taste": {
+      "catalog_entry": "stitch-skill",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/stitch-skill",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "stitch-loop": {
+      "catalog_entry": "stitch-loop",
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-utilities/skills/stitch-loop",
+      "commit": "0337446dadde6f8c94210444e2aa9d546126480f",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "swiftui-design-skill": {
+      "catalog_entry": "swiftui-design",
+      "repo": "https://github.com/wholiver/swiftui-design-skill",
+      "path": "",
+      "commit": "2c82638ebd3c801d9d2d12b5f2d6c20495939995",
+      "license": "MIT",
+      "how": "only skill in repo"
+    },
+    "swiss-creative-mode-template": {
+      "catalog_entry": "swiss-creative-mode-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/swiss-creative-mode-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "swiss-user-research-video-template": {
+      "catalog_entry": "swiss-user-research-video-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/swiss-user-research-video-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "theme-factory": {
+      "catalog_entry": "theme-factory",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/theme-factory",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "threejs-animation": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-animation",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-asset-pipeline": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-asset-pipeline",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-fundamentals": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-fundamentals",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-geometry": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-geometry",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-interaction": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-interaction",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-lighting": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-lighting",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-loaders": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-loaders",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-materials": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-materials",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-performance": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-performance",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-postprocessing": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-postprocessing",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-react-three-fiber": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-react-three-fiber",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-shaders": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-shaders",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "threejs-textures": {
+      "catalog_entry": "threejs",
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "path": "skills/threejs-textures",
+      "commit": "0e181866f095b5f06d005133876e926515390d95",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "tvos-design-guidelines": {
+      "catalog_entry": "platform-design",
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "path": "skills/tvos",
+      "commit": "dc2be825d8b439caea78e9eaa8fb3ac23b0ff3e9",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "ui-animation": {
+      "catalog_entry": "ui-animation",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/ui-animation",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "ui-skills-root": {
+      "catalog_entry": "ui-skills",
+      "repo": "https://github.com/ibelick/ui-skills",
+      "path": "skills/ui-skills-root",
+      "commit": "ba966a3aaa4080ab1836d350f3131584e2d4243a",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "ui-ux-pro-max": {
+      "catalog_entry": "ui-ux-pro-max",
+      "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "path": ".claude/skills/ui-ux-pro-max",
+      "commit": "6ae86f61f520d6ca229d2f40e070410638c908c5",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "venice-audio-music": {
+      "catalog_entry": "venice-audio-music",
+      "repo": "https://github.com/veniceai/skills",
+      "path": "skills/venice-audio-music",
+      "commit": "1b41dc99fa12df7d847ab5b7a6c484055d3f0082",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "venice-audio-speech": {
+      "catalog_entry": "venice-audio-speech",
+      "repo": "https://github.com/veniceai/skills",
+      "path": "skills/venice-audio-speech",
+      "commit": "1b41dc99fa12df7d847ab5b7a6c484055d3f0082",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "venice-image-edit": {
+      "catalog_entry": "venice-image-edit",
+      "repo": "https://github.com/veniceai/skills",
+      "path": "skills/venice-image-edit",
+      "commit": "1b41dc99fa12df7d847ab5b7a6c484055d3f0082",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "venice-image-generate": {
+      "catalog_entry": "venice-image-generate",
+      "repo": "https://github.com/veniceai/skills",
+      "path": "skills/venice-image-generate",
+      "commit": "1b41dc99fa12df7d847ab5b7a6c484055d3f0082",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "venice-video": {
+      "catalog_entry": "venice-video",
+      "repo": "https://github.com/veniceai/skills",
+      "path": "skills/venice-video",
+      "commit": "1b41dc99fa12df7d847ab5b7a6c484055d3f0082",
+      "license": "MIT",
+      "how": "folder name"
+    },
+    "vfx-text-cursor": {
+      "catalog_entry": "vfx-text-cursor",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/vfx-text-cursor",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "video-hyperframes": {
+      "catalog_entry": "video-hyperframes",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/video-hyperframes",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "visionos-design-guidelines": {
+      "catalog_entry": "platform-design",
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "path": "skills/visionos",
+      "commit": "dc2be825d8b439caea78e9eaa8fb3ac23b0ff3e9",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "watchos-design-guidelines": {
+      "catalog_entry": "platform-design",
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "path": "skills/watchos",
+      "commit": "dc2be825d8b439caea78e9eaa8fb3ac23b0ff3e9",
+      "license": "MIT",
+      "how": "explicit path"
+    },
+    "web-artifacts-builder": {
+      "catalog_entry": "web-artifacts-builder",
+      "repo": "https://github.com/anthropics/skills",
+      "path": "skills/web-artifacts-builder",
+      "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "license": "Apache-2.0",
+      "how": "explicit path"
+    },
+    "web-clone": {
+      "catalog_entry": "web-clone",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/web-clone",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "web-design-guidelines": {
+      "catalog_entry": "web-design-guidelines",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/web-design-guidelines",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "weread-year-in-review-video-template": {
+      "catalog_entry": "weread-year-in-review-video-template",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/weread-year-in-review-video-template",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "Apache-2.0",
+      "how": "catalogue copy"
+    },
+    "writing-guidelines": {
+      "catalog_entry": "writing-guidelines",
+      "repo": "https://github.com/nexu-io/open-design",
+      "path": "skills/writing-guidelines",
+      "commit": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+      "license": "MIT",
+      "how": "catalogue copy"
+    },
+    "youtube-clipper": {
+      "catalog_entry": "youtube-clipper",
+      "repo": "https://github.com/op7418/Youtube-clipper-skill",
+      "path": "",
+      "commit": "f31f077ee0905c95a510a6f34bbd0c3c85b15129",
+      "license": "MIT",
+      "how": "frontmatter name"
+    }
+  },
+  "skipped": {
+    "ai-music-album": "stub for https://github.com/bitwize-music-studio/claude-ai-music-skills: 53 skills in repo, none matches 'ai-music-album'; pin it in the manifest",
+    "competitive-ads-extractor": "https://github.com/ComposioHQ/awesome-claude-skills has no LICENSE; not redistributable",
+    "doc": "stub for https://github.com/openai/skills: 44 skills in repo, none matches 'doc'; pin it in the manifest",
+    "domain-name-brainstormer": "https://github.com/ComposioHQ/awesome-claude-skills has no LICENSE; not redistributable",
+    "fal-3d": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-3d'; pin it in the manifest",
+    "fal-generate": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-generate'; pin it in the manifest",
+    "fal-image-edit": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-image-edit'; pin it in the manifest",
+    "fal-kling-o3": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-kling-o3'; pin it in the manifest",
+    "fal-lip-sync": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-lip-sync'; pin it in the manifest",
+    "fal-realtime": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-realtime'; pin it in the manifest",
+    "fal-restore": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-restore'; pin it in the manifest",
+    "fal-train": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-train'; pin it in the manifest",
+    "fal-tryon": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-tryon'; pin it in the manifest",
+    "fal-upscale": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-upscale'; pin it in the manifest",
+    "fal-video-edit": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-video-edit'; pin it in the manifest",
+    "fal-vision": "stub for https://github.com/fal-ai-community/skills: 36 skills in repo, none matches 'fal-vision'; pin it in the manifest",
+    "figma-code-connect-components": "license unrecognised not in allow list; review by hand",
+    "figma-create-design-system-rules": "license unrecognised not in allow list; review by hand",
+    "figma-create-new-file": "https://github.com/figma/mcp-server-guide has no LICENSE; not redistributable",
+    "figma-generate-design": "https://github.com/figma/mcp-server-guide has no LICENSE; not redistributable",
+    "figma-generate-library": "https://github.com/figma/mcp-server-guide has no LICENSE; not redistributable",
+    "figma-implement-design": "license unrecognised not in allow list; review by hand",
+    "figma-use": "https://github.com/figma/mcp-server-guide has no LICENSE; not redistributable",
+    "flutter-animating-apps": "stub for https://github.com/flutter/skills: 31 skills in repo, none matches 'flutter-animating-apps'; pin it in the manifest",
+    "frontend-skill": "stub for https://github.com/openai/skills: 44 skills in repo, none matches 'frontend-skill'; pin it in the manifest",
+    "full-page-screenshot": "https://github.com/LewisLiu007/full-page-screenshot has no LICENSE; not redistributable",
+    "image-enhancer": "https://github.com/ComposioHQ/awesome-claude-skills has no LICENSE; not redistributable",
+    "nanobanana-ppt": "frontmatter name '' is not a valid skill name",
+    "pixelbin-media": "could not fetch https://github.com/pixelbin-dev/skills: Command '('git', 'ls-remote', 'https://github.com/pixelbin-dev/skills.git', 'HEAD', 'refs/heads/HEAD', 'refs/tags/HEAD^{",
+    "platform-design (skills/web)": "name 'web-design-guidelines' already used by another skill",
+    "remotion (packages/skills/skills/remotion-best-practices)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-captions)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-create)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-docs)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-interactivity)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-license)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-maps)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-markup)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-multimedia)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-render)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-saas)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-studio)": "license unrecognised not in allow list; review by hand",
+    "remotion (packages/skills/skills/remotion-upgrade)": "license unrecognised not in allow list; review by hand",
+    "screenshots-marketing": "could not fetch https://github.com/Shpigford/screenshots: Command '('git', 'ls-remote', 'https://github.com/Shpigford/screenshots.git', 'HEAD', 'refs/heads/HEAD', 'refs/tags/HEAD",
+    "slides": "stub for https://github.com/openai/skills: 44 skills in repo, none matches 'slides'; pin it in the manifest",
+    "sora": "stub for https://github.com/openai/skills: 44 skills in repo, none matches 'sora'; pin it in the manifest",
+    "video-downloader": "https://github.com/ComposioHQ/awesome-claude-skills has no LICENSE; not redistributable",
+    "wpds": "license GPL not in allow list; review by hand"
+  }
+}

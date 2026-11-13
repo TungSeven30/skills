@@ -1,0 +1,162 @@
+{
+  "description": "Skills from the Open Design catalogue (nexu-io/open-design/skills), installed into the design plugin. Catalogue stubs are replaced by the original skill from the repo they point at.",
+  "plugin": "design",
+  "catalog": {
+    "repo": "https://github.com/nexu-io/open-design",
+    "ref": "main",
+    "path": "skills"
+  },
+  "exclude": [],
+  "pins": {
+    "figma-create-new-file": {
+      "repo": "https://github.com/figma/mcp-server-guide",
+      "path": "skills/figma-create-new-file"
+    },
+    "figma-generate-design": {
+      "repo": "https://github.com/figma/mcp-server-guide",
+      "path": "skills/figma-generate-design"
+    },
+    "figma-generate-library": {
+      "repo": "https://github.com/figma/mcp-server-guide",
+      "path": "skills/figma-generate-library"
+    },
+    "figma-use": {
+      "repo": "https://github.com/figma/mcp-server-guide",
+      "path": "skills/figma-use"
+    },
+    "figma-code-connect-components": {
+      "repo": "https://github.com/openai/skills",
+      "path": "skills/.curated/figma-code-connect-components"
+    },
+    "figma-create-design-system-rules": {
+      "repo": "https://github.com/openai/skills",
+      "path": "skills/.curated/figma-create-design-system-rules"
+    },
+    "figma-implement-design": {
+      "repo": "https://github.com/openai/skills",
+      "path": "skills/.curated/figma-implement-design"
+    },
+    "design-md": {
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-utilities/skills/design-md"
+    },
+    "enhance-prompt": {
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-utilities/skills/enhance-prompt"
+    },
+    "stitch-loop": {
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-utilities/skills/stitch-loop"
+    },
+    "shadcn-ui": {
+      "repo": "https://github.com/google-labs-code/stitch-skills",
+      "path": "plugins/stitch-build/skills/shadcn-ui"
+    },
+    "wpds": {
+      "repo": "https://github.com/WordPress/agent-skills",
+      "path": "skills/wpds"
+    },
+    "imagen": {
+      "repo": "https://github.com/sanjay3290/ai-skills",
+      "path": "skills/imagen"
+    },
+    "paywall-upgrade-cro": {
+      "repo": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/paywalls"
+    },
+    "apple-hig": {
+      "repo": "https://github.com/raintree-technology/apple-hig-skills",
+      "paths": [
+        "skills/hig-components-content",
+        "skills/hig-components-controls",
+        "skills/hig-components-dialogs",
+        "skills/hig-components-layout",
+        "skills/hig-components-menus",
+        "skills/hig-components-search",
+        "skills/hig-components-status",
+        "skills/hig-components-system",
+        "skills/hig-foundations",
+        "skills/hig-inputs",
+        "skills/hig-patterns",
+        "skills/hig-platforms",
+        "skills/hig-project-context",
+        "skills/hig-technologies"
+      ]
+    },
+    "platform-design": {
+      "repo": "https://github.com/ehmo/platform-design-skills",
+      "paths": [
+        "skills/android",
+        "skills/ios",
+        "skills/ipados",
+        "skills/macos",
+        "skills/tvos",
+        "skills/visionos",
+        "skills/watchos",
+        "skills/web"
+      ]
+    },
+    "threejs": {
+      "repo": "https://github.com/CloudAI-X/threejs-skills",
+      "paths": [
+        "skills/threejs-animation",
+        "skills/threejs-asset-pipeline",
+        "skills/threejs-fundamentals",
+        "skills/threejs-geometry",
+        "skills/threejs-interaction",
+        "skills/threejs-lighting",
+        "skills/threejs-loaders",
+        "skills/threejs-materials",
+        "skills/threejs-performance",
+        "skills/threejs-postprocessing",
+        "skills/threejs-react-three-fiber",
+        "skills/threejs-shaders",
+        "skills/threejs-textures"
+      ]
+    },
+    "ui-skills": {
+      "repo": "https://github.com/ibelick/ui-skills",
+      "paths": [
+        "skills/baseline-ui",
+        "skills/component-canvas",
+        "skills/create-canvas",
+        "skills/create-design-md",
+        "skills/fixing-accessibility",
+        "skills/fixing-metadata",
+        "skills/fixing-motion-performance",
+        "skills/improve-ui",
+        "skills/ui-skills-root"
+      ]
+    },
+    "replicate": {
+      "repo": "https://github.com/replicate/skills",
+      "paths": [
+        "skills/build-models",
+        "skills/compare-models",
+        "skills/find-models",
+        "skills/prompt-images",
+        "skills/prompt-videos",
+        "skills/publish-models",
+        "skills/run-models"
+      ]
+    },
+    "remotion": {
+      "repo": "https://github.com/remotion-dev/remotion",
+      "paths": [
+        "packages/skills/skills/remotion-best-practices",
+        "packages/skills/skills/remotion-captions",
+        "packages/skills/skills/remotion-create",
+        "packages/skills/skills/remotion-docs",
+        "packages/skills/skills/remotion-interactivity",
+        "packages/skills/skills/remotion-license",
+        "packages/skills/skills/remotion-maps",
+        "packages/skills/skills/remotion-markup",
+        "packages/skills/skills/remotion-multimedia",
+        "packages/skills/skills/remotion-render",
+        "packages/skills/skills/remotion-saas",
+        "packages/skills/skills/remotion-studio",
+        "packages/skills/skills/remotion-upgrade"
+      ]
+    }
+  }
+}

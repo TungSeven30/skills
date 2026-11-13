@@ -44,6 +44,12 @@ for entry in market["plugins"]:
         errors.append(f"{entry['name']}: entry name differs from name in {manifest}")
     registered[pdir] = entry["name"]
 
+# Skills installed by scripts/sync-upstream.py are verbatim upstream copies: they still
+# need valid frontmatter, but their links and example paths are upstream's to fix.
+vendored = set()
+for lock in sorted((root / "upstreams").glob("*.lock.json")):
+    vendored |= set(json.loads(lock.read_text()).get("skills", {}))
+
 seen = {}
 for pdir in sorted(p for p in (root / "plugins").iterdir() if p.is_dir()):
     skills = sorted((pdir / "skills").glob("*/SKILL.md"))
@@ -64,7 +70,7 @@ for pdir in sorted(p for p in (root / "plugins").iterdir() if p.is_dir()):
         if not m:
             errors.append(f"{skill_md}: missing frontmatter")
             continue
-        fm = dict(re.findall(r"^([A-Za-z-]+):\s*(.*)$", m.group(1), re.M))
+        fm = {k: v.strip().strip("'\"") for k, v in re.findall(r"^([A-Za-z-]+):\s*(.*)$", m.group(1), re.M)}
         if fm.get("name") != sdir.name:
             errors.append(f"{skill_md}: frontmatter name {fm.get('name')!r} differs from folder {sdir.name!r}")
         if not fm.get("description"):
@@ -72,6 +78,8 @@ for pdir in sorted(p for p in (root / "plugins").iterdir() if p.is_dir()):
         if sdir.name in seen:
             errors.append(f"skill {sdir.name} exists in both {seen[sdir.name]} and {name}")
         seen[sdir.name] = name
+        if sdir.name in vendored:
+            continue
         # Relative markdown links must point at files inside the skill folder.
         for target in re.findall(r"\]\(([^)\s]+)\)", text):
             if re.match(r"^(https?:|mailto:|#|\$\{)", target):
@@ -83,17 +91,21 @@ for pdir in sorted(p for p in (root / "plugins").iterdir() if p.is_dir()):
                 errors.append(f"{skill_md}: link {target} leaves the skill folder")
 
 # Machine-specific paths and obvious credentials in tracked content.
-bad = re.compile(r"(/Users/[A-Za-z]|/home/[a-z]|C:\\\\Users|-----BEGIN [A-Z ]*PRIVATE KEY|gh[pousr]_[A-Za-z0-9]{20,}|sk-[A-Za-z0-9_-]{20,}|AKIA[0-9A-Z]{16})")
+machine = re.compile(r"(/Users/[A-Za-z]|/home/[a-z]|C:\\\\Users)")
+secret = re.compile(r"(-----BEGIN [A-Z ]*PRIVATE KEY|gh[pousr]_[A-Za-z0-9]{20,}|(?<![A-Za-z0-9-])sk-[A-Za-z0-9_-]{20,}|AKIA[0-9A-Z]{16})")
 for path in root.rglob("*"):
     if ".git" in path.parts or not path.is_file() or path.name == "validate.sh":
         continue
+    is_vendored = len(path.parts) > 3 and path.parts[0] == "plugins" and path.parts[2] == "skills" and path.parts[3] in vendored
     try:
         text = path.read_text()
     except UnicodeDecodeError:
         continue
     for n, line in enumerate(text.splitlines(), 1):
-        if bad.search(line):
-            errors.append(f"{path}:{n}: machine-specific path or credential-like string")
+        if secret.search(line):
+            errors.append(f"{path}:{n}: credential-like string")
+        elif not is_vendored and machine.search(line):
+            errors.append(f"{path}:{n}: machine-specific path")
 
 for e in errors:
     print("FAIL ", e)
