@@ -27,5 +27,6 @@ Each category in this repo is its own plugin under `plugins/<category>/`, listed
 
 ## Rules
 
+- Never hand-edit a skill listed in an `upstreams/*.lock.json`; change its manifest in `upstreams/` and run `scripts/sync-upstream.py` instead (see the README).
 - One copy of each skill. To move a skill between categories, move its whole folder with `git mv`, bump both plugins' versions, and note the new invocation name in the README.
 - Never rename or remove a plugin entry without adding the old name to `renames` in `marketplace.json` (new name, or `null` if removed). Treat `renames` as append-only.

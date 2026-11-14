@@ -12,7 +12,21 @@
       "source": "./plugins/core",
       "description": "General-purpose skills, including add-skill for maintaining this skills library.",
       "category": "productivity",
-      "tags": ["skills", "core"]
+      "tags": [
+        "skills",
+        "core"
+      ]
+    },
+    {
+      "name": "design",
+      "source": "./plugins/design",
+      "description": "Visual, interface and brand design skills, including the Open Design catalogue synced from upstream.",
+      "category": "design",
+      "tags": [
+        "skills",
+        "design",
+        "open-design"
+      ]
     }
   ],
   "renames": {
